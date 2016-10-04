@@ -1,0 +1,23 @@
+table,th,td{
+	border:1px solid black;
+}
+
+th{
+ font-size:115%;
+ color:blue;
+ background-color:pink;
+ padding:5
+}
+
+.title {
+  font-size:185%;
+  
+}
+
+.time{
+  font-weight:600;
+}
+
+.weekdays{
+  padding:10px;
+}
